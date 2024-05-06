@@ -1,6 +1,5 @@
-# Conversor de Imagens para Libras
-
-Este é um projeto para converter imagens de sinais em Libras para um formato adequado para exibição em um site.
+# Conversor de Imagens para o meu site, LibraCOM
+Este é um projeto para converter imagens em imagens quadradas, (1x1) com 1000px x 1000px, sem fundo, bordas ou cantos.
 
 ## Pré-requisitos
 
@@ -31,7 +30,7 @@ pip install -r requirements.txt
 python convert_images.py
 
 3. Siga as instruções no terminal para fornecer o nome base para os arquivos convertidos.
-4. Os arquivos convertidos serão salvos na pasta `output`.
+4. Os arquivos convertidos serão salvos na pasta `output` com o final em numeral.
 
 ## Contribuição
 
